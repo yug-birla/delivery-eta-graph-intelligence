@@ -35,7 +35,6 @@
 - [How to Run Locally](#-how-to-run-locally)
 - [Tech Stack](#-tech-stack)
 - [Data Leakage Prevention](#-data-leakage-prevention)
-- [Dashboard Pages](#-dashboard-pages)
 - [Future Improvements](#-future-improvements)
 
 ---
