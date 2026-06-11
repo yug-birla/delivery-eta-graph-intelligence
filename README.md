@@ -75,6 +75,9 @@ The final system includes:
 - Business impact estimation
 - Streamlit dashboard deployment
 
+
+![Graphical Presentation of Graph](outputs/figures/Graphical_presentation.png)
+
 ---
 
 ## 🎯 Business Problem
