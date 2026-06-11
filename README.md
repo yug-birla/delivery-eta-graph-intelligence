@@ -37,7 +37,6 @@
 - [Data Leakage Prevention](#-data-leakage-prevention)
 - [Dashboard Pages](#-dashboard-pages)
 - [Future Improvements](#-future-improvements)
-- [Author](#-author)
 
 ---
 
