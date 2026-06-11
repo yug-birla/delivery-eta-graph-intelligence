@@ -1,0 +1,4 @@
+delay_risk_category_v2,records,actual_sla_breaches,sla_breach_rate,total_actual_delay_time,median_actual_delay_time,median_predicted_time,median_distance,sla_breach_rate_pct
+High,1055,1029,0.9753554502369668,267804.0,66.0,119.137276,38.71651399874453,97.54
+Low,2637,2366,0.8972317026924536,139053.0,28.0,62.368755,31.3472068487954,89.72
+Medium,1582,1563,0.9879898862199747,156957.0,51.0,98.00946,33.60024937660309,98.8

@@ -1,0 +1,4 @@
+delay_risk_category,recommended_route_type,records,median_predicted_time,median_distance,median_risk_score
+Low,Carting,4249,71.554985,31.46840091384205,0.3276828979410726
+Medium,Carting,412,76.911285,21.788052115322287,0.4380765662640014
+Medium,FTL,613,315.64594,99.8836344767186,0.47135137783408343

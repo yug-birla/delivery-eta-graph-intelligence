@@ -1,0 +1,4 @@
+scenario,assumed_reduction_rate,action_required_records,action_delay_time,estimated_delay_time_saved,actual_sla_breaches,action_sla_breaches,estimated_sla_breaches_reduced,estimated_penalty_saved
+Conservative,0.05,2834,379550.0,18977.5,4958,2657,132.85,13285.0
+Moderate,0.1,2834,379550.0,37955.0,4958,2657,265.7,26570.0
+Optimistic,0.15,2834,379550.0,56932.5,4958,2657,398.55,39855.0
